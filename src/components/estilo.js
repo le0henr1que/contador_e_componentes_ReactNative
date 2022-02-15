@@ -2,7 +2,7 @@ import { StyleSheet } from "react-native";
 
 export default StyleSheet.create({
     txtGrande:{
-        fontSize:24, 
+        fontSize:34, 
         textAlign: "center"
     }
 })
